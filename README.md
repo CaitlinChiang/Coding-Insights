@@ -6,8 +6,8 @@ This collates all the concepts that I have learned and am currently learning.
 
 This is a book by Robert C. Martin, which goes through the best practices in programming. It is emphasized here that it is not enough that code just works, but the code itself is part of the artistic medium. Some ideas may come across controversial, but these are ideas to be discussed and thought about, for adaptation of your circumstances.
 
-- [Chapter 01: Clean Code]()
-- [Chapter 02: Meaningful Names]()
+- [Chapter 01: Clean Code](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-01.md)
+- [Chapter 02: Meaningful Names](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-02.md)
 - [Chapter 03: Functions]()
 - [Chapter 04: Comments]()
 - [Chapter 05: Formatting]()
