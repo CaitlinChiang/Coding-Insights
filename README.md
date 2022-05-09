@@ -8,7 +8,7 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 
 - [Chapter 01: Clean Code](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-01.md)
 - [Chapter 02: Meaningful Names](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-02.md)
-- [Chapter 03: Functions]()
+- [Chapter 03: Functions](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-03.md)
 - [Chapter 04: Comments]()
 - [Chapter 05: Formatting]()
 - [Chapter 06: Objects and Data Structures]()

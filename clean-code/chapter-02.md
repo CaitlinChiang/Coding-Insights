@@ -4,7 +4,6 @@
 - Variable names with a singular letter such as 'i' or 'd' unless in a local iteration loop is discouraged.
 
 Example code for a mine sweeper game:
-
 ```
 public List<int[]> getThem() {
   List<int[]> list1 = new ArrayList<int[]>(); for (int[] x : theList)
@@ -15,7 +14,6 @@ public List<int[]> getThem() {
 ```
 
 Can be improved by simply using meaningful names and creating a class for cells instead of using int[]:
-
 ```
 public List<Cell> getFlaggedCells() {
   List<Cell> flaggedCells = new ArrayList<Cell>(); 
@@ -33,7 +31,6 @@ public List<Cell> getFlaggedCells() {
 - Accessors, mutators, and predicates should be named for their value and prefixed with 'get', 'set', and 'is'.
 
 For example: 
-
 ```
 string name = employee.getName(); 
 customer.setName("mike");
