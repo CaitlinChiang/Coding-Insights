@@ -14,7 +14,7 @@ public List<int[]> getThem() {
 }
 ```
 
-Can be improved to:
+Can be improved by simply using meaningful names and creating a class for cells instead of using int[]:
 
 ```
 public List<Cell> getFlaggedCells() {
@@ -25,8 +25,6 @@ public List<Cell> getFlaggedCells() {
   return flaggedCells; 
 }
 ```
-
-By simply using meaningful names and creating a class for cells instead of using int[]
 
 - Ensure that the names are meaningful and distinct. A bad example would be ProductInfo and ProductData, where both are similar.
 - Variable names should be pronounceable for ease of communication.
