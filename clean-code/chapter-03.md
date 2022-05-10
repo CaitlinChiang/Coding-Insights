@@ -145,3 +145,54 @@ enum Direction {
   WEST
 }
 ```
+
+- Favor functional programming over imperative programming
+```
+let totalOutput = 0;
+
+for (let i = 0; i < sampleOutput.length; i++) {
+  totalOutput += sampleOutput[i].sampleProperty;
+}
+```
+
+Can be improved to:
+```
+const INITIAL_VALUE = 0
+
+const totalOutput = sampleOutput
+  .map((e) => e.sampleProperty)
+  .reduce((acc, sampleProperty) => acc + sampleProperty, INITIAL_VALUE);
+```
+
+- Consider the concept of 'Polymorphism', wherein switch statements are replaced with classes instead. It is a core concept of an object-oriented paradigm that provides a way to perform a single action in different forms.
+
+For Example:
+```
+class Airplane {
+  getCruisingAltitude() {
+    switch (this.type) {
+      case 'Air Force One':
+        return this.getMaxAltitude();
+      case 'Cessna':
+        return this.getMaxAltitude() - this.getFuelExpenditure();
+    }
+  }
+}
+```
+
+Can be improved to:
+```
+class Airplane {}
+
+class AirForceOne extends Airplane {
+  getCruisingAltitude() {
+    return this.getMaxAltitude();
+  }
+}
+
+class Cessna extends Airplane {
+  getCruisingAltitude() {
+    return this.getMaxAltitude() - this.getFuelExpenditure();
+  }
+}
+```
