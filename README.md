@@ -10,7 +10,7 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 - [Chapter 02: Meaningful Names](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-02.md)
 - [Chapter 03: Functions](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-03.md)
 - [Chapter 04: Comments](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-04.md)
-- [Chapter 05: Formatting]()
+- [Chapter 05: Formatting](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-05.md)
 - [Chapter 06: Objects and Data Structures]()
 - [Chapter 07: Error Handling]()
 - [Chapter 08: Boundaries]()
