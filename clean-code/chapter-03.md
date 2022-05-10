@@ -136,6 +136,7 @@ private void logError(Exception e) {
 ```
 
 - Use enums for a list of constants, which can be used easier in switch statements
+  - Know when to use switch statements instead of if statements
 ```
 enum Direction {
   NORTH,
