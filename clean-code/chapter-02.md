@@ -30,7 +30,7 @@ public List<Cell> getFlaggedCells() {
 - Methods should have verb or verb phrase names (ex. deletePage, postPayment).
 - Accessors, mutators, and predicates should be named for their value and prefixed with 'get', 'set', and 'is'.
 
-For example: 
+For Example: 
 ```
 string name = employee.getName(); 
 customer.setName("mike");

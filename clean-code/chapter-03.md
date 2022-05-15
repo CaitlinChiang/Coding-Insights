@@ -1,6 +1,16 @@
 # Chapter 03: Functions
 
 - Have 2 or less arguments ideally, if it needs more then the argument should be an entire class such as 'Address'
+  - When passing arguments that hold values beforehand, you may simply set default values incase it is null / empty.
+
+  For Example: 
+  ```
+  function calculateCustomerPayment(itemsTotalPrice, discount) {
+    let discount = discount || 0 // Discount will be set to 0 if null
+    return payment * (1 - discount);
+  }
+  ```
+
 - Indented correctly
 - The name should clearly say what they do, in a verb/noun pair.
 - Does ONE thing. It should do it well. It should do it ONLY. It focuses on ONE level of abstraction.
@@ -135,8 +145,9 @@ private void logError(Exception e) {
 }
 ```
 
-- Use enums for a list of constants, which can be used easier in switch statements
-  - Know when to use switch statements instead of if statements
+- Use enums for a list of constants, which can be used easier in switch statements within functions.
+  - Know when to use switch statements instead of if statements.
+  - But when if statements are used, it is best to use them as guard clauses.
 ```
 enum Direction {
   NORTH,
