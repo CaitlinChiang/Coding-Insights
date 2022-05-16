@@ -90,7 +90,7 @@ public String substring(int beginIndex, int endIndex) {
 }
 ```
 
-Can be improved to:
+Can be improved by changing the if statements to guard clauses:
 ```
 public String substring(int beginIndex, int endIndex) {
   if (beginIndex < 0) {
@@ -147,7 +147,6 @@ private void logError(Exception e) {
 
 - Use enums for a list of constants, which can be used easier in switch statements within functions.
   - Know when to use switch statements instead of if statements.
-  - But when if statements are used, it is best to use them as guard clauses.
 ```
 enum Direction {
   NORTH,
