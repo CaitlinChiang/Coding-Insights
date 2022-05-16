@@ -19,19 +19,17 @@
 
 ## Evaluating Linear Search
 - Start at the beginning of the list, and repeatedly go through all succeeding values until the target value matches.
-
-For Example:
-For a target value of n = 100, the algorithm must go through and evaluate 100 values to match it.
+- For Example:
+  - For a target value of n = 100, the algorithm must go through and evaluate 100 values to match it.
 
 
 ## Evaluating Binary Search
 - With every value evaluated against the target value, we are able to eliminate half of the values in the range by answering 'is it more than or less than'.
 - The values must be sorted.
-
-For Example:
-1. For a target value of n = 100, the algorithm evaluates 50
-2. Eliminates values 1-50
-3. Evaluates 75
-4. Eliminates values 51-75
-5. Evaluates 85
-... Then this pattern repeats until 100 is reached
+- For Example:
+  1. For a target value of n = 100, the algorithm evaluates 50
+  2. Eliminates values 1-50
+  3. Evaluates 75
+  4. Eliminates values 51-75
+  5. Evaluates 85
+  ... Then this pattern repeats until 100 is reached
