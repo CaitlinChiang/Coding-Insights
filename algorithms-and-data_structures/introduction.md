@@ -5,6 +5,10 @@
 - Algorithmic Thinking
   - When a problem is presented, you should be able to break it down into specific steps, then identify the appropriate algorithm to be applied.
   - Always clarify the values that count as inputs.
+- Correctness: For any possible input, the algorithm should always terminate. This is proven by mathematical induction.
+- Efficiency
+  - Time Complexity: The less time the algorithm takes to complete, the more efficient it is.
+  - Space Complexity: Good algorithms don't take up too much memory
 
 Guidelines:
   1. Clearly defined problem statement, input, and output.
@@ -12,16 +16,12 @@ Guidelines:
   3. Each step in the algorithm must be explicitly clear & distinct.
   4. Should produce a result that is consistent when repeated.
   5. Should actually complete in a finite amount of time.
-
-- Correctness: For any possible input, the algorithm should always terminate. This is proven by mathematical induction.
-- Efficiency
-  - Time Complexity: The less time the algorithm takes to complete, the more efficient it is.
-  - Space Complexity: Good algorithms don't take up too much memory
    
 
 ## Evaluating Linear Search
 - Start at the beginning of the list, and repeatedly go through all succeeding values until the target value matches.
-- For Example:
+
+For Example:
   - For a target value of n = 100, the algorithm must go through and evaluate 100 values to match it.
 
 
