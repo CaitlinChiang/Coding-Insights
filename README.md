@@ -29,9 +29,7 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 
 This is a [free course](https://www.youtube.com/watch?v=8hly31xKli0) uploaded in the freeCodeCamp.org channel, originally created by [Teamtreehouse](https://teamtreehouse.com/). 
 
-### [Playing a Counting Game](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/playing-a-counting-game.md)
-- What is an Algorithm?
-- Guess the Number
+### [Introduction](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/introduction.md)
 - Defining an Algorithm
 - Evaluating Linear Search
 - Evaluating Binary Search
