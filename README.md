@@ -14,7 +14,7 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 - [Chapter 06: Objects and Data Structures](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-06.md)
 - [Chapter 07: Error Handling](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-07.md)
 - [Chapter 08: Boundaries](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-08.md)
-- [Chapter 09: Unit Tests]()
+- [Chapter 09: Unit Tests](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-09.md)
 - [Chapter 10: Classes]()
 - [Chapter 11: Systems]()
 - [Chapter 12: Emergence]()
