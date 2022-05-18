@@ -46,11 +46,7 @@ This is a [free course](https://www.youtube.com/watch?v=8hly31xKli0) uploaded in
 - Linear Search in Code
 - Binary Search in Code
 - Recursive Binary Search
-
-### [Recursion and Space Complexity](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/recursion-and-space-complexity.md)
-- Recursive Functions
 - Space Complexity
-- Recap of Algorithms in Code
 
 ### [Exploring Arrays](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/exploring-arrays.md)
 - Introduction
