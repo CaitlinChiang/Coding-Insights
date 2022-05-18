@@ -36,10 +36,10 @@ This is a [free course](https://www.youtube.com/watch?v=8hly31xKli0) uploaded in
 
 ### [Time Complexity](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/time-complexity.md)
 - Efficiency of an Algorithm
-- Constant and Logarithmic Time
-- Linear & Quadratic Time
-- Quasilinear Time
-- Exponential Time
+- Constant and Logarithmic Runtime
+- Linear Search & Quadratic Runtime
+- Quasilinear Runtime
+- Polynomial & Exponential Runtime
 - Determining Complexity
 
 ### [Algorithms in Code](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/algorithms-in-code.md)
