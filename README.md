@@ -17,7 +17,7 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 - [Chapter 09: Unit Tests](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-09.md)
 - [Chapter 10: Classes](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-10.md)
 - [Chapter 11: Systems](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-11.md)
-- [Chapter 12: Emergence]()
+- [Chapter 12: Emergence](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-12.md)
 - [Chapter 13: Concurrency]()
 - [Chapter 14: Successive Refinement]()
 - [Chapter 15: JUnit Internals]()
