@@ -19,15 +19,15 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 - [Chapter 11: Systems](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-11.md)
 - [Chapter 12: Emergence](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-12.md)
 - [Chapter 13: Concurrency](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-13.md)
-- [Chapter 14: Successive Refinement]()
-- [Chapter 15: JUnit Internals]()
+- [Chapter 14: Successive Refinement](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-14.md)
+- [Chapter 15: JUnit Internals](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-15.md)
 - [Chapter 16: Refactoring SerialDate]()
 - [Chapter 17: Smells and Heuristics]()
 
 
 ## Introduction to Algorithms & Data Structures
 
-This is a [free course](https://www.youtube.com/watch?v=8hly31xKli0) uploaded in the freeCodeCamp.org channel, originally created by [Teamtreehouse](https://teamtreehouse.com/). 
+This is a [free course](https://www.youtube.com/watch?v=8hly31xKli0) uploaded in the freeCodeCamp.org channel, originally created by [Teamtreehouse](https://teamtreehouse.com/).
 
 ### [Introduction](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/algorithms-and-data_structures/introduction.md)
 - Defining an Algorithm
