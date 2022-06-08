@@ -4,7 +4,7 @@ This collates all the concepts that I have learned and am currently learning.
 
 ## Clean Code
 
-This is a book by Robert C. Martin, which goes through the best practices in programming. It is emphasized here that it is not enough that code just works, but the code itself is part of the artistic medium. Some ideas may come across controversial, but these are ideas to be discussed and thought about, for adaptation of your circumstances.
+This is a book by Robert C. Martin, which goes through the best practices in programming. It is emphasized here that it is not enough that code just works, but the code itself is part of the artistic medium. Some ideas may come across controversial, but these are ideas to be discussed and thought about, for adaptation of your circumstances. I have gone over and written notes for chapters 1-14, as these are the most applicable to the different programming languages.
 
 - [Chapter 01: Clean Code](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-01.md)
 - [Chapter 02: Meaningful Names](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-02.md)
@@ -20,9 +20,6 @@ This is a book by Robert C. Martin, which goes through the best practices in pro
 - [Chapter 12: Emergence](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-12.md)
 - [Chapter 13: Concurrency](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-13.md)
 - [Chapter 14: Successive Refinement](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-14.md)
-- [Chapter 15: JUnit Internals](https://github.com/CaitlinChiang/Fundamental-Learnings/blob/main/clean-code/chapter-15.md)
-- [Chapter 16: Refactoring SerialDate]()
-- [Chapter 17: Smells and Heuristics]()
 
 
 ## Introduction to Algorithms & Data Structures
